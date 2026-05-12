@@ -228,6 +228,7 @@ CREATE TABLE PRODUCTS (
 ![Swagger UI](screenshots/swagger-ui.png)
 
 ### POST - Create a Product
+
 ![Create Product](screenshots/POST.png)
 
 ### GET - Get Product by ID
