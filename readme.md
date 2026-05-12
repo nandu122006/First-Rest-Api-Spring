@@ -19,6 +19,7 @@ and includes Swagger UI for testing and documentation.
 
 ## Project Structure
 first-rest-api-spring/
+├──screenshots
 ├── src/
 │   └── main/
 │       ├── java/
@@ -51,7 +52,7 @@ first-rest-api-spring/
 │           └── application.properties
 ├── .gitignore
 ├── pom.xml
-└── README.md
+└── readme.md
 
 ---
 
