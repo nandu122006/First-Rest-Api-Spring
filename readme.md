@@ -229,7 +229,7 @@ CREATE TABLE PRODUCTS (
 
 ### POST - Create a Product
 
-![Create Product](screenshots/POST.png)
+![Create Product](screenshots/post.png)
 
 ### GET - Get Product by ID
 ![Get Product by ID](screenshots/get.png)
